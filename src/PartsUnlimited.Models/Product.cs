@@ -7,7 +7,7 @@ using Newtonsoft.Json.Linq;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-
+//squash 3
 namespace PartsUnlimited.Models
 {
     public class Product
