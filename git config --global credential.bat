@@ -37,3 +37,10 @@ los commits locales se eliminan de la rama temporalmente.
 se ejecuta un git pull.
 los commits locales se insertan nuevamente.
 Esto quiere decir que todos tus commits locales aparecen al final, después de los commits remotos. Esto es, si haces git log, los commits de la rama que has rebasado aparecen como si fueran más antiguos, independientemente de cuándo se hicieran.
+
+
+
+https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class
+https://guides.github.com/introduction/flow/
+https://training.github.com/downloads/github-git-cheat-sheet.pdf
+http://git-school.github.io/visualizing-git/
