@@ -2,7 +2,9 @@
 // Licensed under the MIT license. See LICENSE file in the project root for full license information.
 
 using Microsoft.AspNetCore.Identity;
-//ejemplol squash
+
+//rebase test
+
 namespace PartsUnlimited.Models
 {
     public class ApplicationUser : IdentityUser
