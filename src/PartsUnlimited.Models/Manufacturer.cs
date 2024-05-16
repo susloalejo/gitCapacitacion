@@ -7,6 +7,7 @@ namespace PartsUnlimited.Models
 {
     public class Manufacturer
     {
+        //cambio release
         public int ManufacturerId { get; set; }
 
         [Required]
