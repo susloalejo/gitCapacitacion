@@ -1,5 +1,6 @@
 ﻿# How to contribute
  #conflicto ejemplo release
+ #conflicto ejemplo 2 desde release
 One of the easiest ways to contribute is to participate in discussions and discuss issues. You can also contribute by submitting pull requests with code changes.
 
 ## General feedback, discussions, bugs, feature requests?
